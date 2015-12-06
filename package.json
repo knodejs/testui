@@ -1,0 +1,19 @@
+{
+  "name": "testui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knodejs/testui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knodejs/testui/issues"
+  },
+  "homepage": "https://github.com/knodejs/testui#readme"
+}

@@ -2,8 +2,8 @@ initial project
 
 >npm install & bower install
 
-run gulp
+run by gulp
 >gulp serve
 
-run Node
+run by Node.js
 >node app

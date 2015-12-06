@@ -1,3 +1,7 @@
+initial project
+
+>npm install & bower install
+
 run gulp
 >gulp serve
 

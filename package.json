@@ -18,6 +18,7 @@
   "homepage": "https://github.com/knodejs/testui#readme",
   "dependencies": {
     "express": "^4.13.3",
+    "gulp": "^3.9.0",
     "gulp-webserver": "^0.9.1"
   }
 }
